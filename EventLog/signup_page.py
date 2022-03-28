@@ -5,7 +5,7 @@ import pymysql
 class SignUp:
     def __init__(self, root):
         self.window = root
-        self.window.title("Event Log Management System Registration Form is")
+        self.window.title("Event Log Management System Registration Form ")
         self.window.geometry("1280x800+0+0")
         self.window.config(bg = "white")
 
