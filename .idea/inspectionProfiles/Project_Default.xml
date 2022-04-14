@@ -8,6 +8,7 @@
           <option value="win32con" />
           <option value="win32evtlogutil" />
           <option value="winerror" />
+          <option value="statemachine.*" />
         </list>
       </option>
     </inspection_tool>

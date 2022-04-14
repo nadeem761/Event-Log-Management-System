@@ -3,6 +3,7 @@ from tkinter import ttk, messagebox
 import pymysql
 
 
+
 class login_page:
     def __init__(self, root):
         self.window = root
@@ -55,7 +56,7 @@ class login_page:
                     messagebox.showerror("Error!","Invalid USERNAME & PASSWORD",parent=self.window)
                 else:
 
-                      from EventLog import device
+                       import home
 
 
             except Exception as e:
