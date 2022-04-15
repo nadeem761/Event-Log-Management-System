@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dada5cb-f299-4afa-bdcb-1ff9455b8e61" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION.docx" afterDir="false" />
-    </list>
+    <list default="true" id="1dada5cb-f299-4afa-bdcb-1ff9455b8e61" name="Changes" comment="changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,12 +29,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EventLog" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hp\OneDrive\Desktop\Final Year Project Folder\EventLog" />
+      <recent name="C:\Users\Hp\OneDrive\Desktop\Final Year Project Folder" />
       <recent name="C:\Users\Hp\OneDrive\Desktop\Final Year Project Folder\images" />
     </key>
   </component>
@@ -207,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649950143168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changes">
+      <created>1649952953521</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649952953521</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
